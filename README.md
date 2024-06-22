@@ -1,4 +1,3 @@
-<img src="https://github.com/YellowGregs/YellowGregs/assets/172260606/d67e3ff3-7799-45e0-98ea-65cf77693669" width="40%" align="right" alt="Banner"/>
 
 <header><h1>YellowGreg Profile</h1></header>
 
