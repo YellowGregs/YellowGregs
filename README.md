@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0000EE&&width=550&lines=%3E+Hi+I'm+YellowGreg;%3E+Web+Developer;%3E+Discord+Bot+Developer;%3E+NSFW+Developer" />
 
 - Hi, I'm a self-taught coder, and I love coding random projects for fun, for people to use.
-- I'm currently learning **TypeScript**, **Next.js**, and **Electron**.
+- I'm currently learning **TypeScript**, **Rust**, **Next.js**, and **Electron**.
 
 ## Languages & Tools
 
