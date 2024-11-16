@@ -3,8 +3,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0000EE&&width=550&lines=%3E+Hi+I'm+YellowGreg;%3E+Web+Developer;%3E+Discord+Bot+Developer;%3E+NSFW+Developer" />
 
-- Hi, I'm a self-taught coder, and I love coding random projects for fun, for people to use.
-- I'm currently learning **Rust**, **Next.js**, and **Electron**.
+<div align="center">
+  <h5>Self Taught Programmer</h5>
+  <h6>Hi, I'm a self-taught coder, and I love coding random projects for fun, for people to use.</h6>
+  <h6>I'm currently learning Rust, Next.js, and Electron.</h6>
+</div>
 
 ## Languages & Tools
 
@@ -17,16 +20,28 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <a href="https://skillicons.dev">
+  <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/Php?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
+<!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,js,html,css,python,php,ts" alt="Languages" />
-  </a>
+  </a> -->
 </div>
 
 <div align="center">
   <h3>Libraries & Frameworks</h3>
-  <a href="https://skillicons.dev">
+  <img src="https://svgl-badge.vercel.app/api/Library/React?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Devtool/Vite?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Framework/Vue?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Software/NPM?theme=dark"/>
+<!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,vite,vue,npm" alt="Libraries_Frameworks" />
-  </a>
+  </a> -->
 </div>
 
 ## GitHub Stats
