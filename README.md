@@ -12,9 +12,9 @@
 ## Languages & Tools
 
 <div align="center">
-  <h3>IDE & Tools</h3>
+  <h3>Development Environments & Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,git,replit,robloxstudio,mongodb,vscode,visualstudio,codepen" alt="IDE_Tools" />
+    <img src="https://skillicons.dev/icons?i=powershell,git,replit,vercel,robloxstudio,mongodb,vscode,visualstudio,codepen" alt="IDE_Tools" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <h3>Libraries & Frameworks</h3>
+  <h3>Technologies, Libraries & Frameworks</h3>
   <img src="https://svgl-badge.vercel.app/api/Library/React?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Devtool/Vite?theme=dark"/>
