@@ -6,7 +6,6 @@
 <div align="center">
   <h5>Self Taught Programmer</h5>
   <h6>Hi, I'm a self-taught coder, and I love coding random projects for fun, for people to use.</h6>
-  <h6>I'm currently learning Rust, Next.js, and Electron.</h6>
 </div>
 
 ## Languages & Tools
@@ -25,7 +24,6 @@
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Php?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,js,html,css,python,php,ts" alt="Languages" />
