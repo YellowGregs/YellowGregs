@@ -3,10 +3,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0000EE&&width=550&lines=%3E+Hi+I'm+YellowGreg;%3E+Web+Developer;%3E+Discord+Bot+Developer;%3E+NSFW+Developer" />
 
-<div align="center">
+<!-- <div align="center">
   <h5>Self Taught Programmer</h5>
   <h6>Hi, I'm a self-taught coder, and I love coding random projects for fun, for people to use.</h6>
-</div>
+</div> -->
 
 ## Languages & Tools
 
@@ -37,6 +37,8 @@
   <img src="https://svgl-badge.vercel.app/api/Devtool/Vite?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Framework/Vue?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/NPM?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Framework/Astro?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=dark"/>
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,vite,vue,npm" alt="Libraries_Frameworks" />
   </a> -->
