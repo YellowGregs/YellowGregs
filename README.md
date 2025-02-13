@@ -52,12 +52,15 @@
   <div align="center">
     <table>
       <tr>
-        <td valign="top" width="50%">
-          <img src="https://github-readme-stats.vercel.app/api?username=YellowGregs&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center"/>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=YellowGregs&theme=dark" alt="YellowGreg" />
+        <td valign="top" width="60%">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowgregs&theme=apprentice" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yellowgregs&theme=apprentice" align="center"/>
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yellowgregs&theme=apprentice&utcOffset=10" alt="YellowGreg" />
         </td>
-        <td valign="top" width="50%">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowGregs&langs_count=8&theme=dark&hide_border=true" align="left" style="width:100%"/>
+        <td valign="top" width="80%">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowGregs&langs_count=8&theme=dark&hide_border=true" align="left" width="90%"/>
+          <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yellowgregs&theme=apprentice&exclude=" align="left"/>
+          <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yellowgregs&theme=apprentice&exclude=" align="left"/>
         </td>
       </tr>
     </table>
