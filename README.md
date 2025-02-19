@@ -2,13 +2,14 @@
 <header><h1>YellowGreg</h1></header>
 </div>
 <div align="center">
+  <h6>Hi, I love coding random projects for fun, for people to use.</h6>
   <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="Banner GIF" width="800" />
 </div>
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0000EE&&width=550&lines=%3E+Hi+I'm+YellowGreg;%3E+Web+Developer;%3E+Discord+Bot+Developer;%3E+NSFW+Developer" /> -->
 
 <!-- <div align="center">
   <h5>Self Taught Programmer</h5>
-  <h6>Hi, I'm a self-taught coder, and I love coding random projects for fun, for people to use.</h6>
+  <h6>Hi, I love coding random projects for fun, for people to use.</h6>
 </div> -->
 
 <div align="center">
