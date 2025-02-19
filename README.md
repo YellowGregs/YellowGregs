@@ -1,14 +1,19 @@
-
-<header><h1>YellowGreg Profile</h1></header>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0000EE&&width=550&lines=%3E+Hi+I'm+YellowGreg;%3E+Web+Developer;%3E+Discord+Bot+Developer;%3E+NSFW+Developer" />
+<div align="center">
+<header><h1>YellowGreg</h1></header>
+</div>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="Banner GIF" width="800" />
+</div>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0000EE&&width=550&lines=%3E+Hi+I'm+YellowGreg;%3E+Web+Developer;%3E+Discord+Bot+Developer;%3E+NSFW+Developer" /> -->
 
 <!-- <div align="center">
   <h5>Self Taught Programmer</h5>
   <h6>Hi, I'm a self-taught coder, and I love coding random projects for fun, for people to use.</h6>
 </div> -->
 
-## Languages & Tools
+<div align="center">
+<header><h2>Languages & Tools</h2></header>
+</div>
 
 <div align="center">
   <h3>Development Environments & Tools</h3>
@@ -44,7 +49,8 @@
   </a> -->
 </div>
 
-## GitHub Stats
+<div align="center">
+<header><h2>GitHub Stats</h2></header>
 
 <details>
   <summary><h3>Click to View Stats</h3></summary>
@@ -66,8 +72,11 @@
     </table>
   </div>
 </details>
+</div>
 
-## Trophies
+<div align="center">
+<header><h2>Trophies</h2></header>
+</div>
 
 <div align="center">
   <a href="https://github.com/YellowGregs/github-profile-trophy">
@@ -75,7 +84,9 @@
   </a>
 </div>
 
-## Discord
+<div align="center">
+<header><h2>Discord</h2></header>
+</div>
 
 <div align="center">
   <a href="https://discord.com/users/773952016036790272">
@@ -83,7 +94,9 @@
   </a>
 </div>
 
-## Profile Views
+<div align="center">
+<header><h2>Profile Views</h2></header>
+</div>
 
 <div align="center">
   <a href="https://u8views.com/github/YellowGregs">
@@ -92,5 +105,4 @@
 </div>
 
 ## License
-
-This project is licensed under the MIT License, allowing you to use it for free.
+Free to use
