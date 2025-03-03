@@ -17,27 +17,27 @@
 </div>
 
 <div align="center">
-  <h3>Development Environments & Tools</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell,git,replit,vercel,robloxstudio,mongodb,vscode,visualstudio,codepen" alt="IDE_Tools" />
   </a>
 </div>
 
 <div align="center">
-  <h3>Languages</h3>
+  <h3></h3>
   <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark"/>
+  
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,js,html,css,python,php,ts" alt="Languages" />
   </a> -->
 </div>
 
 <div align="center">
-  <h3>Technologies, Libraries & Frameworks</h3>
   <img src="https://svgl-badge.vercel.app/api/Library/React?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Devtool/Vite?theme=dark"/>
@@ -45,6 +45,11 @@
   <img src="https://svgl-badge.vercel.app/api/Software/NPM?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Framework/Astro?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Database/PostgreSQL?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Database/MySQL?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Library/shadcnui?theme=dark"/>
+  
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,vite,vue,npm" alt="Libraries_Frameworks" />
   </a> -->
