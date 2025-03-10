@@ -1,5 +1,7 @@
 <div align="center">
-<header><h1>YellowGreg</h1></header>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=YellowGreg&fontAlignY=40&textBg=false&reversal=false" alt="YellowGreg" width="1000" />
+
+<!-- <header><h1>YellowGreg</h1></header> -->
 </div>
 <div align="center">
   <h6>Hi, I love coding random projects for fun, for people to use.</h6>
