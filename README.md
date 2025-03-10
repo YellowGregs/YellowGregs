@@ -15,7 +15,7 @@
 </div> -->
 
 <div align="center">
-<header><h2>Languages & Tools</h2></header>
+<header><h2>Languages & Tools & Other</h2></header>
 </div>
 
 <div align="center">
