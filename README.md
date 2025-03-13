@@ -3,6 +3,7 @@
 
 <!-- <header><h1>YellowGreg</h1></header> -->
 </div>
+
 <div align="center">
 <!--   <h6>Hi, I love coding random projects for fun, for people to use.</h6> -->
   <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="Banner GIF" width="800" />
@@ -15,7 +16,7 @@
 </div> -->
 
 <div align="center">
-<header><h2>Languages & Tools & Other</h2></header>
+<header><h2>Languages & Tools & Frameworks</h2></header>
 </div>
 
 <div align="center">
