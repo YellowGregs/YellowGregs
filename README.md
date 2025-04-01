@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=YellowGreg&fontAlignY=40&textBg=false&reversal=false&desc=Hi,%20I%20code%20random%20projects%20for%20fun,%20for%20people%20to%20use." alt="YellowGreg" width="1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=YellowGreg&fontAlignY=40&textBg=false&reversal=false&desc=I%20code%20random%20projects%20for%20fun,%20for%20people%20to%20use." alt="YellowGreg" width="1000" />
 
 <!-- <header><h1>YellowGreg</h1></header> -->
 </div>
