@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,git,replit,vercel,robloxstudio,mongodb,vscode,visualstudio,codepen" alt="IDE_Tools" />
+    <img src="https://skillicons.dev/icons?i=powershell,git,replit,vercel,robloxstudio,vscode,visualstudio,codepen" alt="IDE_Tools" />
   </a>
 </div>
 
@@ -53,6 +53,7 @@
   <img src="https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Library/shadcnui?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Prisma?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark"/>
   
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,vite,vue,npm" alt="Libraries_Frameworks" />
