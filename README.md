@@ -54,6 +54,10 @@
   <img src="https://svgl-badge.vercel.app/api/Library/shadcnui?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Prisma?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Database/Pocketbase?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Software/Warp?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Google/Firebase?theme=dark"/>
   
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,vite,vue,npm" alt="Libraries_Frameworks" />
