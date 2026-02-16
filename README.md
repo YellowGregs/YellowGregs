@@ -33,6 +33,8 @@
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark"/>
   
 <!--   <a href="https://skillicons.dev">
@@ -89,7 +91,7 @@
 </details>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <header><h2>Trophies</h2></header>
 </div>
 
@@ -97,7 +99,7 @@
   <a href="https://github.com/YellowGregs/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=YellowGregs&theme=discord&no-frame=true&margin-h=10" alt="Trophies"/>
   </a>
-</div>
+</div> -->
 
 <div align="center">
 <header><h2>Discord</h2></header>
