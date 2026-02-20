@@ -15,19 +15,19 @@
   <h6>Hi, I love coding random projects for fun, for people to use.</h6>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
 <header><h2>Languages & Tools & Frameworks</h2></header>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell,git,replit,vercel,robloxstudio,vscode,visualstudio,codepen" alt="IDE_Tools" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <h3></h3>
-  <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
+  <!-- <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
@@ -35,7 +35,7 @@
   <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark"/> -->
   
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,js,html,css,python,php,ts" alt="Languages" />
@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <img src="https://svgl-badge.vercel.app/api/Library/React?theme=dark"/>
+  <!-- <img src="https://svgl-badge.vercel.app/api/Library/React?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Devtool/Vite?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Framework/Vue?theme=dark"/>
@@ -60,14 +60,14 @@
   <img src="https://svgl-badge.vercel.app/api/Software/Warp?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Google/Firebase?theme=dark"/>
-  
+   -->
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,vite,vue,npm" alt="Libraries_Frameworks" />
   </a> -->
 </div>
 
 <div align="center">
-<header><h2>GitHub Stats</h2></header>
+<!-- <header><h2>GitHub Stats</h2></header> -->
 
 <details>
   <summary><h3>Click to View Stats</h3></summary>
@@ -81,7 +81,7 @@
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yellowgregs&theme=apprentice&utcOffset=10" alt="YellowGreg" />
         </td>
         <td valign="top" width="80%">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowGregs&langs_count=8&theme=dark&hide_border=true" align="left" width="90%"/>
+          <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowGregs&langs_count=8&theme=dark&hide_border=true" align="left" width="90%"/> -->
           <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yellowgregs&theme=apprentice&exclude=" align="left"/>
           <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yellowgregs&theme=apprentice&exclude=" align="left"/>
         </td>
@@ -120,6 +120,3 @@
     <img src="https://u8views.com/api/v1/github/profiles/172260606/views/day-week-month-total-count.svg" alt="Profile Views"/>
   </a>
 </div>
-
-## License
-Free to use
